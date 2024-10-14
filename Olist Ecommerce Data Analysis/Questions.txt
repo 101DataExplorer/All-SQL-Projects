@@ -1,0 +1,83 @@
+Sure! Here are some data analysis questions you can explore using the provided tables:
+
+### Customer Analysis
+1. **Customer Distribution by Location**
+   - How are customers distributed across different cities and states?
+   - What are the top 10 cities with the highest number of customers?
+
+2. **Customer Behavior Analysis**
+   - What is the average number of orders per customer?
+   - What is the distribution of customers based on the number of orders placed?
+
+### Geolocation Analysis
+3. **Geolocation Insights**
+   - How do the average delivery times vary by city or state?
+   - What are the top 10 cities with the fastest and slowest delivery times?
+
+### Order Analysis
+4. **Order Status Analysis**
+   - What is the distribution of order statuses (e.g., delivered, canceled, pending)?
+   - How has the order status distribution changed over time?
+
+5. **Order Timing Analysis**
+   - What is the average time between order purchase and approval?
+   - What is the average delivery time from order approval to customer delivery?
+
+6. **Order Volume Trends**
+   - How does the number of orders vary by month and year?
+   - What are the peak months for order placements?
+
+### Order Items and Payments Analysis
+7. **Order Item Insights**
+   - What is the average number of items per order?
+   - Which products have the highest sales volume?
+
+8. **Payment Analysis**
+   - What is the distribution of payment types used by customers?
+   - What is the average payment value and how does it vary by payment type?
+
+### Review Analysis
+9. **Review Score Analysis**
+   - What is the distribution of review scores?
+   - How do review scores correlate with delivery times or product categories?
+
+10. **Review Content Analysis**
+    - What are the common themes or sentiments in the review comments?
+    - How does the length of the review comment correlate with the review score?
+
+### Product Analysis
+11. **Product Category Analysis**
+    - Which product categories have the highest sales?
+    - What is the average product rating by category?
+
+12. **Product Dimension Analysis**
+    - How do product dimensions (weight, length, height, width) correlate with shipping costs?
+    - What are the top 10 heaviest and lightest products?
+
+### Seller Analysis
+13. **Seller Performance Analysis**
+    - Which sellers have the highest sales volume?
+    - How do delivery times vary by seller?
+
+14. **Seller Location Analysis**
+    - How are sellers distributed across different cities and states?
+    - What are the top cities with the highest number of sellers?
+
+### Combined Analysis
+15. **Customer and Order Correlation**
+    - Is there a correlation between customer location and average order value?
+    - How does customer location influence order frequency and volume?
+
+16. **Geolocation and Delivery Correlation**
+    - How does geolocation (latitude and longitude) affect delivery times and shipping costs?
+    - Are there specific regions with consistently higher or lower delivery performance?
+
+17. **Product and Review Correlation**
+    - How do product features (e.g., weight, dimensions) influence customer reviews?
+    - Are there specific product categories that receive consistently higher or lower review scores?
+
+18. **Seller and Payment Correlation**
+    - How does the choice of payment method vary by seller?
+    - Are there sellers who predominantly use a specific payment method?
+
+These questions can help guide your analysis and uncover insights from the data available in the tables.
